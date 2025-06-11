@@ -40,10 +40,6 @@ Your task is to create a simple but modern checkout system for Space Coffee Co. 
 - Process payments using our [payment processing guide](https://developers.publicsquare.com/guides/merchants/process-payments)
 - Ensure the solution works across all Earth-based browsers (and maybe some Martian ones too! 👽)
 
-## ⏱️ Time Constraint
-
-The Space Coffee Co. board has given us a tight deadline! You have exactly **1 Earth hour** to complete this mission. Don't worry about making it perfect - we're looking for a working prototype that demonstrates your technical expertise and problem-solving skills.
-
 ## 🌟 Bonus Points
 
 While not required, we'd be impressed by:
@@ -75,7 +71,3 @@ You'll need to create a PSQ account at https://portal.publicsquare.com and grab 
 Remember: This is a prototype, so focus on the core functionality. We're looking for clean, working code that demonstrates your ability to integrate third-party APIs and create a seamless user experience.
 
 Good luck, developer! The future of interplanetary coffee commerce rests in your capable hands! 🚀
-
----
-
-Note: This is a technical assessment that should take no more than 1 hour to complete. Have fun with it!
