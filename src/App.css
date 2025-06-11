@@ -1,0 +1,56 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+    background-image: url('https://t3.ftcdn.net/jpg/02/31/41/40/360_F_231414077_ruoMx8h0az1Djn3rO1Nxt1s7gnPXZYjH.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  input, button {
+    margin: 10px 0;
+    padding: 20px;
+    border: none;
+    border-radius: 50px 50px 0 0; /* Top rounded corners */
+    background-color: #fdfaf9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  input {
+    width: 400px;
+  }
+  
+  button {
+    background-color: #1e90ff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  button:disabled {
+    background-color: #555;
+    cursor: not-allowed;
+  }
+  
+  .card-element {
+    width: 400px;
+    margin: 10px 0;
+    background-color: #fdfaf9;
+    padding: 20px;
+    border-radius: 50px 50px 0 0; /* Top rounded corners */
+    position: relative;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px #000;
+  }
